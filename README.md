@@ -6,4 +6,4 @@ git clone https://github.com/SHAWON-AHAMED/ENCODER
 
 cd ENCODER
 
-python3 Encode.py
+python3 ENCODE.py
